@@ -1,4 +1,11 @@
-### Hi there 👋
+### Wubba Lubba Dub Dub 👋
+
+![](https://github-readme-stats.vercel.app/api?username=ryzzzin&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=929292&icon_color=47cef0)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzzzin&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=929292)
+<img src="https://media.giphy.com/media/9JwUhPDEGmhbWgCMEZ/giphy.gif" width="150"/>
+
+*This stats only uses data from public repositories.*
 
 <!--
 **ryzzzin/ryzzzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
